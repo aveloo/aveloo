@@ -17,5 +17,5 @@ int main ()
 	candiesForJohn=allCandies-(studentsMinusJohn*candyForEach);
 	cout<<"John will have "<<candiesForJohn<<" candies for tonight.";
 	}	
-return 0;
+	return 0;
 }
